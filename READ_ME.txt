@@ -7,6 +7,7 @@ Instructions
 1. Import SAPIntegrationPublicPreview.zip into your environment
 2. Import the CSV files into their corresponding Dataverse tables. This data is needed to run the Power Apps
 
+NOTE: To use this content for a workshop delivery, please see the readme in the deployment folder.
 
 An overview of SAP integration can be found here:
 https://aka.ms/learn-sap-integration
