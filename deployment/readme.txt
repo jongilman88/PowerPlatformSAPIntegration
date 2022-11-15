@@ -14,7 +14,7 @@ Instructions:
  - Execute the ps1 script using the following syntax:
 
     .\deploySAPSolution.ps1 -url <url to target environment> -solutionPath <path to solution zip> 
-            -schemaPath <path to schema file> -configDataPath <path to configdata.zip>
+            -configDataPath <path to configdata.zip>
 
 The ps script should create a new authentication profile to the environment specified, then import the solution
 file, and finally import the configuration data. 
