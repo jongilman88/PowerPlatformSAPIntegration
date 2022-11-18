@@ -28,7 +28,7 @@ file, and finally import the configuration data.
 
 Unable to run the powershell script because of "UnauthorizedAccess".
 ```
-+ .\deploySAPSolution.ps1 -url https://make.preprod.powerautomate.com/e ...
++ .\deploySAPSolution.ps1 -url https://make.powerauto....
 + ~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
     + FullyQualifiedErrorId : UnauthorizedAccess
@@ -44,7 +44,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 #### Problem:
 
 ```
-PS C:\Users\tbrazelton\Downloads\PowerPlatformSAPIntegration-main\PowerPlatformSAPIntegration-main\deployment> Add-PowerAppsAccount
+C:\...\deployment> Add-PowerAppsAccount
 Add-PowerAppsAccount : The term 'Add-PowerAppsAccount' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling
 of the name, or if a path was included, verify that the path is correct and try again.
 At line:1 char:1
