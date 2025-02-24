@@ -1,4 +1,4 @@
-# PowerPlatformSAPIntegration
+# Power Platform SAP Integration
 
 Proceed to the deployment directory and follow the instructions there.
 
