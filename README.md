@@ -3,6 +3,6 @@
 Proceed to the deployment directory and follow the instructions there.
 
 > [!WARNING]
-> This repo is no longer maintained or supported.
+> This repository contains Jon Gilman's personal Power Platform solutions. These are not officially released Microsoft templates.
 
-For more enterprise ready templates please visit [Microsoft's official repository](https://github.com/microsoft/Templates-for-Power-Platform).
+For Microsoft's officially released templates please visit [Microsoft's official repository](https://github.com/microsoft/Templates-for-Power-Platform).
