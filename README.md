@@ -15,6 +15,6 @@ Next you need to import [Microsoft's SAP Base solution](https://github.com/micro
 # Solutions
 Once you've performed the pre-requisites, you're now ready to start importing solutions for your respective business processes.
 - [Purchasing (Procure-to-Pay)](https://github.com/microsoft/Templates-for-Power-Platform/tree/main/Solution%20Packages%20For%20Manual%20Install/Finance/SAP%20Procurement)
-- Finance
+- [Finance](finance)
 
 For Microsoft's officially released templates please visit [Microsoft's official repository](https://github.com/microsoft/Templates-for-Power-Platform).
