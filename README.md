@@ -1,8 +1,9 @@
 # Power Platform SAP Integration
 
-Proceed to the deployment directory and follow the instructions there.
+Here you will find a number of solutions that integrate Microsoft's Power Platform with SAP.
 
-> [!WARNING]
-> This repository contains Jon Gilman's personal Power Platform solutions. These are not officially released Microsoft templates.
+# Pre-Requisites
+
+# Solutions
 
 For Microsoft's officially released templates please visit [Microsoft's official repository](https://github.com/microsoft/Templates-for-Power-Platform).
