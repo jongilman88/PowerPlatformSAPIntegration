@@ -1,5 +1,5 @@
 # Power Platform SAP Integration
-Here you will find a number of solutions that integrate Microsoft's Power Platform with SAP.
+Here you will find a number of solutions that will enable your organization to integrate Microsoft's Power Platform with SAP.
 
 # Pre-Requisites
 Before you get started with these solutions, you will need to prepare your Power Platform environment for SAP integration. This can take anywhere from 4 hours for a seasoned Power Platform architect to a few days for a novice.
